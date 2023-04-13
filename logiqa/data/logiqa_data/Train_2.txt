@@ -1,0 +1,80 @@
+
+c
+Some Cantonese don't like chili, so some southerners don't like chili.
+Which of the following can guarantee the above argument?
+A.Some Cantonese love chili
+B.Some people who like peppers are southerners
+C.All Cantonese are southerners
+D.Some Cantonese like neither peppers nor sweets
+
+a
+Continuous exposure to indoor fluorescent lights is beneficial to the health of hamsters with heart disease.One group of hamsters exposed to continuous exposure to fluorescent lights has an average lifespan that is 2.5% longer than another one of the same species but living in a black wall.
+Which of the following questions was the initial motivation for conducting the above experiment?
+A.Can hospital light therapy be proved to promote patient recovery?
+B.Which one lives longer, the hamster living under the light or the hamster living in the dark?
+C.What kind of illness does the hamster have?
+D.Do some hamsters need a period of darkness?
+
+b
+There is no doubt that minors should be prohibited from smoking.However, we cannot explicitly ban the use of automatic cigarette vending machines in order to prevent minors from smoking.This ban is just like setting up roadblocks on the road to prohibit driving without a license.These roadblocks naturally prohibit driving without a license, but also block more than 99% of licensed drivers.
+In order to evaluate the above argument, which of the following questions is the most important?
+A.Does the proportion of underage smokers in the total number of smokers exceed 1%?
+B.How much inconvenience does the ban on the use of automatic vending machines bring to adult cigarette buyers?
+C.Whether the proportion of unlicensed drivers in the total number of drivers really does not exceed 1%
+D.Is the harm of minor smoking really as serious as the public thinks?
+
+a
+A research report states that a special education program for children aged 3-5 under study increases their chances of success in future schooling.Therefore, implementing a similar education program for all children will improve them in the future opportunities for success in school education.
+Which of the following best illustrates the logical loopholes summarized above?
+A.Children's cognitive abilities are constantly changing at the age of 3-5
+B.Establishing such education and training programs on a national basis requires a special public expenditure
+C.Many parents mistakenly believe that early formal education will occupy the time that children would have been able to better explore the world independently
+D.Investigators are unaware that they include a large group of children who have previously received another education
+
+c
+The traitor is a traitor, so you are a traitor, so I am a patriot.The words of a patriot are the most valuable, so my words are good.Since my words are good, you are undoubtedly a traitor!
+Which of the following makes the same logical mistake as above?
+A.Literature and art are not worthy of attention.Modernization must relies on science and technology, so science and technology are worthy of our attention.But literature and art are not science and technology.
+B.Non-university can also become an outstanding talent.Gorky, Edison, Faraday, Franklin, etc.have not attended college, but they have all become outstanding talents.
+C.The earth is a sphere, which can be proved from the fact that when we stand at a height and watch the sailing boat in the sea, we always see the mast first and then the hull.The reason for this is because the earth is a sphere.
+D.I saw them coming out of this chemical plant several times before I realized that this young man who was eager to help patients was originally a worker in this chemical plant.
+
+d
+Last year's inflation rate was 1.2%, and this year has reached 4%, so we can conclude that the inflation rate is on the rise, and the inflation rate will be higher next year.
+Which of the following, if true, would seriously weaken the above conclusion?
+A.Inflation rate is calculated based on a representative sample of economically sensitive data, not on available data
+B.Inflation last year was the lowest in recent years
+C.False prosperity caused by rising inflation rate will eventually lead to economic recession
+D.Last year's financial turmoil caused inflation to temporarily fall below the average of 4% in recent years
+
+d
+Aristotle's "Apocalypse" records such a sophistry: "You have a dog, and it has children because it is a father; it is yours, and therefore it is your father; you hitting it means you hitting your own father."
+Which of the following makes the same logical fallacy as the above sophistry?
+A.Dogs have four legs and sheep have four legs, so dogs can be sheep
+B."Come up, Czech, roosters have long been called." "What does it matter to me? I'm not a hen."
+C.When someone said that Omar Dem was lying, he whispered, "Whoever lies says something that doesn't exist; something that doesn't exist cannot be said, so no one lies."
+D.Your opinion turns out to be wrong, so my criticism on your opinion is correct.Now that my opinion is correct, it is undoubted that your opinion is wrong.
+
+b
+According to "God Creation", God created the earth on the first day, the moon on the second day, and the sun on the third day.
+Which of the following assertions is not the meaning of the above-mentioned creation theory?
+A.Celestial planets come one after another
+B.Regarding the meaning of "one day", God has the same understanding and use with us
+C.At least there was no sun for the first two days of the earth's existence.
+D.Without the sun and in darkness, God also can work
+
+d
+A linguist believes that the term "fiancée" is contradictory.The dictionary explains "fiancée" as "a wife who is engaged but not married", and explains "wife" as "when a man and a woman get married, the woman is the man's wife." How can you call a wife without getting married?
+Which of the following is the presupposed premise of the linguist?
+A.The claims of "Fiancée" may lead to the legalization of cohabitation
+B.Some are not officially married, but the essence is a de facto marriage
+C.In fact, "fiancée" is an uncertain marriage relationship
+D.The so-called "fiancée" actually means that she is not married now, but still the wife of a man
+
+c
+There was a group discussion of judicial workers in the city.One group has 8 people.At the beginning of the meeting, the group leader asked everyone if they knew each other.As a result, only one person in the group knew 3 of the group, 3 knew 2 of the group, and 4 knew 1 of the group.
+If the above statistics are true, which of the following conclusions can best be reached?
+A.The group leader knows the most in the group, and the others know each other less
+B.This is the first time such a meeting has been held and everyone is new
+C.Some members may only know what they have seen on television or at a briefing
+D.Although there are not many acquaintances in the group, what they knew are all close friends.
